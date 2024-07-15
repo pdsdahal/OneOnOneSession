@@ -11,9 +11,7 @@ public class LinkedListDiscussion {
 
         List<String> nameArrayList = new LinkedList<>();
 
-
         //add : it add elements in list
-
         nameArrayList.add("Shyam Shrestha");
         nameArrayList.add("Gita Shrestha");
 
